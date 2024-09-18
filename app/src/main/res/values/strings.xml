@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Information App</string>
+    <string name="ronaldo">Cristiano Ronaldo is a Portuguese professional footballer
+        who plays as a forward for AL NASSIR and captains the Portugal national team.</string>
+    <string name="messi">Lionel Messi is an Argentine professional footballer
+        who plays as a forward for INTER MIAMI and captains the Argentina national team.</string>
+    <string name="neymar">Neymar is a Brazilian professional footballer
+        who plays as a forward for Ligue 1 club AL HILAL and the Brazil national team.</string>
+    <string name="mount">Mason Mount is an English professional footballer
+        who plays as a midfielder for Premier League club Chelsea and the England national team.</string>
+    <string name="benzima">Karim Benzema is a French professional footballer
+        who plays as a striker for La Liga club AL ITHAD and the France national team.</string>
+</resources>
